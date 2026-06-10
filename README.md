@@ -24,7 +24,7 @@ Visualization Techniques: Multi-axis trend tracking, geospatial mapping, and bre
 
 * Vehicle Vulnerability: Passenger cars are involved in the overwhelming majority of incidents with 100,781 casualties, while bikes (10,438) and vans (10,012) represent the secondary high-risk vehicle tiers.
 
-* Geographic & Environmental Risk Factors: * Urban vs. Rural: Built-up urban locations are significantly more hazardous, accounting for 66.4% of casualties compared to 33.6% in rural areas.
+* Geographic & Environmental Risk Factors:  Urban vs. Rural: Built-up urban locations are significantly more hazardous, accounting for 66.4% of casualties compared to 33.6% in rural areas.
 
 * Infrastructure: Single carriageway roads overwhelmingly dominate the infrastructure risk matrix, scaling toward 100K casualties.
 

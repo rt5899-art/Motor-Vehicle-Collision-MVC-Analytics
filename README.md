@@ -6,6 +6,8 @@ This project delivers a comprehensive data analytics solution designed to evalua
 
 ### Tools & Technologies
 
+Platform : Microsoft Excel
+
 Business Intelligence: Power BI Desktop
 
 Data Modeling: Power Query (ETL processing) & DAX (Time Intelligence and KPI creation)

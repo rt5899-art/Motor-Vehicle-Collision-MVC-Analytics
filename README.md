@@ -16,7 +16,7 @@ Visualization Techniques: Multi-axis trend tracking, geospatial mapping, and bre
 
 #### Dashboard Preview
 
-![image alt](https://github.com/rt5899-art/Motor-Vehicle-Collision-MVC-Analytics/blob/main/car%20accident.png?raw=true)
+![image alt](https://github.com/rt5899-art/Motor-Vehicle-Collision-MVC-Analytics/blob/main/final%20car%20accident.png?raw=true)
 
 ### Key Business Insights
 

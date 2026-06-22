@@ -64,14 +64,10 @@ Visualization Techniques: Multi-axis trend tracking, geospatial mapping, and bre
 
 ### Recommendations
 
-1. Targeted Urban Infrastructure
-Given that 66.4% of casualties occur in urban environments, traffic calming measures, improved pedestrian infrastructure, and stricter speed enforcement should be prioritized within city centers and major metropolitan clusters.
+**1. Targeted Urban Infrastructure** Given that 66.4% of casualties occur in urban environments, traffic calming measures, improved pedestrian infrastructure, and stricter speed enforcement should be prioritized within city centers and major metropolitan clusters.
 
-2. Single Carriageway Safety Initiatives
-Since single carriageways account for the bulk of the road type casualties, safety campaigns should focus on these roads. Potential interventions include installing physical barriers to prevent head-on collisions, clear lane markings, and targeted speed cameras.
+**2. Single Carriageway Safety Initiatives** Since single carriageways account for the bulk of the road type casualties, safety campaigns should focus on these roads. Potential interventions include installing physical barriers to prevent head-on collisions, clear lane markings, and targeted speed cameras.
 
-3. Seasonal Enforcement in Autumn
-Due to the visible spike in casualties during October and November, local authorities should launch targeted road safety campaigns and increase highway policing during these months to address potential seasonal hazards like worsening weather or shorter daylight hours.
+**3. Seasonal Enforcement in Autumn** Due to the visible spike in casualties during October and November, local authorities should launch targeted road safety campaigns and increase highway policing during these months to address potential seasonal hazards like worsening weather or shorter daylight hours.
 
-4. Focus on Car Safety and Driver Behavior
-With cars contributing to over 100,000 casualties, policy and enforcement should remain heavily focused on driver behavior, distracted driving, and ensuring vehicle safety compliance.
+**4. Focus on Car Safety and Driver Behavior** With cars contributing to over 100,000 casualties, policy and enforcement should remain heavily focused on driver behavior, distracted driving, and ensuring vehicle safety compliance.

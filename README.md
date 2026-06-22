@@ -20,17 +20,21 @@ Visualization Techniques: Multi-axis trend tracking, geospatial mapping, and bre
 
 ### Key Business Insights
 
-* Primary High-Level KPIs: The system records 4,404 Reported Accidents, which directly resulted in a Total Current Year (CY) Casualty count of 3,386 across 2,221 CY Accidents.
+**Headline Metrics**
 
-* Severity Breakdown: The vast majority of injuries are classified as CY Slight Casualties at 2,892, followed by 463 CY Serious Casualties, and 31 CY Fatal Casualties.
+ *Total Reported Accidents: 196,331
 
-* Vehicle Vulnerability: Passenger cars are involved in the overwhelming majority of incidents with 100,781 casualties, while bikes (10,438) and vans (10,012) represent the secondary high-risk vehicle tiers.
+ *Total CY Casualties: 126,804 (An overall reduction of 8.14% compared to PY).
 
-* Geographic & Environmental Risk Factors:  Urban vs. Rural: Built-up urban locations are significantly more hazardous, accounting for 66.4% of casualties compared to 33.6% in rural areas.
+ *CY Accidents: 94,153 (A decrease of 7.85% compared to PY).
 
-* Infrastructure: Single carriageway roads overwhelmingly dominate the infrastructure risk matrix, scaling toward 100K casualties.
+**Casualty Breakdown by Severity**
 
-* Visibility: Nearly three-quarters of incidents occur during daylight hours (73.37%), leaving 26.63% occurring in dark conditions.
+ *Fatal Casualties: 1,642 (A significant decrease of 37.61% compared to PY).
+
+ *Serious Casualties: 17,289 (A decrease of 11.29% compared to PY).
+
+ *Slight Casualties: 107,873 (A decrease of 6.94% compared to PY).
 
 ### Strategic Recommendations
 

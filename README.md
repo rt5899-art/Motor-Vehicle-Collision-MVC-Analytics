@@ -18,7 +18,9 @@ Visualization Techniques: Multi-axis trend tracking, geospatial mapping, and bre
 
 ![image alt](https://github.com/rt5899-art/Motor-Vehicle-Collision-MVC-Analytics/blob/main/Accident_Final.png?raw=true)
 
-### Findings:  **Headline Metrics**
+### Findings:  
+
+**Headline Metrics**
 
  *Total Reported Accidents:* 196,331
 
